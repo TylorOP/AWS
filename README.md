@@ -2,10 +2,10 @@ All Servides
 
 # IAM (Identity ans Access Management)
 
-User groups
-User
-Roles
-Policies
+User groups  
+User  
+Roles  
+Policies  
 
 # Ec2 (Elastic Compute Cloud)
 
